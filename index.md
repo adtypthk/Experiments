@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+
+<nav>
+            <a href="https://adtypthk.github.io/Home/">Home</a> 
+           <a href="https://adtypthk.github.io/Experiments/">Experiments</a> 
+           <a href="https://adtypthk.github.io/Ideas">Ideas</a> 
+           
+ </nav>
+ ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/adtypthk/Experiments/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
