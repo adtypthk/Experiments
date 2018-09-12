@@ -1,8 +1,8 @@
 
 <nav>
-            #<a href="https://adtypthk.github.io/Home/">Home</a> 
-           #<a href="https://adtypthk.github.io/Experiments/">Experiments</a> 
-           #<a href="https://adtypthk.github.io/Ideas">Ideas</a> 
+           # Header 1 <a href="https://adtypthk.github.io/Home/">Home</a> 
+           # Header 1 <a href="https://adtypthk.github.io/Experiments/">Experiments</a> 
+           # Header 1 <a href="https://adtypthk.github.io/Ideas">Ideas</a> 
            
  </nav>
  ## Welcome to GitHub Pages
